@@ -1,0 +1,11 @@
+<resources>
+	<string name="app_name">TextFun</string>
+
+	<string name="tekst">To jest przykładowy tekst! Trolololo.</string>
+	<string name="czerwony">Czerwony</string>
+	<string name="czarny">Czarny</string>
+	<string name="niebieski">Niebieski</string>
+	<string name="kolor">Kolor</string>
+	<string name="wielkosc">Wielkość</string>
+	<string name="action_settings">Settings</string>
+</resources>
